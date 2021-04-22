@@ -1,0 +1,27 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box {
+    width: 80vw;
+    height: 60vh;
+    border: solid 1px;
+    align-self: center;
+}
+
+.box > button {
+}
+
+.input {
+    border: solid 1px darkblue;
+    height: 30px;
+}
+
+.todos {
+
+}
+
+
